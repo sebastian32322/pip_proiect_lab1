@@ -17,6 +17,8 @@ public class Afisare {
 		Suma d = new Suma(a, c);
 		
 		d.Afisare();
+		
+		System.out.println("commitul facut dupa merge");
 	}
 
 }
