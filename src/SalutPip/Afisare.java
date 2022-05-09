@@ -7,6 +7,9 @@ public class Afisare {
 		
 		int a = 2;
 		System.out.println("primul commit din proiect 15:42 ");
+		
+		boolean b = true;
+		System.out.println("al doilea commit din proiect 15:51");
 
 	}
 
