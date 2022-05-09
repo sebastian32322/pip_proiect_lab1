@@ -8,6 +8,12 @@ public class Afisare {
 		int a = 2;
 		System.out.println("primul commit din proiect 15:42 ");
 
+		
+		int c = 3;
+		
+		Suma d = new Suma(a, c);
+		
+		d.Afisare();
 	}
 
 }
