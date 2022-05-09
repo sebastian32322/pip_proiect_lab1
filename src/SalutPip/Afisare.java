@@ -11,6 +11,12 @@ public class Afisare {
 		boolean b = true;
 		System.out.println("al doilea commit din proiect 15:51");
 
+		
+		int c = 3;
+		
+		Suma d = new Suma(a, c);
+		
+		d.Afisare();
 	}
 
 }
